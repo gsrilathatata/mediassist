@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+gunicorn==22.0.0
+azure-ai-agents==1.0.0
+azure-identity
+azure-search-documents>=11.4.0
+azure-data-tables>=12.5.0
+azure-communication-email>=1.0.0
+azure-ai-contentsafety>=1.0.0
+requests
